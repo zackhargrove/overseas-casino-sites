@@ -10,7 +10,7 @@ export async function onRequest(context) {
   if (isGooglebot) {
     out.headers.set(
       "Link",
-      '<https://www.carnforth-station.co.uk/>; rel="canonical", <https://www.carnforth-station.co.uk/>; rel="alternate"; hreflang="x-default", <https://www.carnforth-station.co.uk/>; rel="alternate"; hreflang="en", <https://non-gamstop-casinos.carnforth-station.co.uk/>; rel="alternate"; hreflang="en-gb"'
+      '<https://non-gamstop-casino.televigil.co.uk/>; rel="canonical", <https://www.televigil.co.uk/>; rel="alternate"; hreflang="x-default", <https://non-gamstop-casino.televigil.co.uk/>; rel="alternate"; hreflang="en", <https://non-gamstop-casino.televigil.co.uk/>; rel="alternate"; hreflang="en-gb"'
     );
   }
 
