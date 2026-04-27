@@ -10,7 +10,7 @@ export async function onRequest(context) {
   if (isGooglebot) {
     out.headers.set(
       "Link",
-      '<https://non-gamstop-casino.televigil.co.uk/>; rel="canonical", <https://www.televigil.co.uk/>; rel="alternate"; hreflang="x-default", <https://non-gamstop-casino.televigil.co.uk/>; rel="alternate"; hreflang="en", <https://non-gamstop-casino.televigil.co.uk/>; rel="alternate"; hreflang="en-gb"'
+      '<https://best-non-gamstop-casinos-uk.televigil.co.uk/>; rel="canonical", <https://www.televigil.co.uk/>; rel="alternate"; hreflang="x-default", <https://non-gamstop-casino.televigil.co.uk/>; rel="alternate"; hreflang="en", <https://best-non-gamstop-casinos-uk.televigil.co.uk/>; rel="alternate"; hreflang="en-gb"'
     );
   }
 
